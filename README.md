@@ -16,8 +16,8 @@ $ tail -f position.log
 2023-01 - INFO - End of position 
 
 2023-02 - INFO - SRE / Blockchain Operator @ nodeguardians.io
-2023-02 - INFO - Stack: ["Kubernetes", "GCP", "Bare Metal", "Terraform", "Ansible", "Prometheus", "Grafana", "Loki", "OpenTelemetry", "SLIs/SLOs"] 
-2023-02 - INFO - Blockchain-specific stack: ["MPC (horcrux)", "DVT (Obol, SSV)", "Ethereum", "IBC Relayers", "Celestia", "Arbitrum Sequencer", "HashiCorp Vault"] 
+2023-02 - INFO - Stack: ["Kubernetes", "GCP", "Bare Metal", "Terraform", "Ansible", "HashiCorp Vault", "Prometheus", "Grafana", "Loki", "OpenTelemetry", "SLIs/SLOs"] 
+2023-02 - INFO - Blockchain-specific stack: ["MPC (horcrux)", "DVT (Obol, SSV)", "Ethereum", "IBC Relayers", "Celestia", "Arbitrum Sequencer", "Sui", "Cosmos-SDK chains"] 
 2024-12 - INFO - End of position 
 
 2025-01 - INFO - SRE @ easy-node.xyz
