@@ -1,7 +1,8 @@
 ### Software Engineer, Infrastructure — DevOps, SRE, Platform Eng
 
-**Position logs:** 
 ```log
+$ tail -f position.log
+
 2020-02 - INFO - Full-Stack Developer @ Trakx.io
 2020-02 - INFO - Stack: ["C#",".NET", "Ethereum"]
 2020-08 - INFO - End of position 
@@ -23,9 +24,9 @@
 2025-01 - INFO - Stack: ["Pulumi", "Python", "Docker", "CI/CD", "Grafana", "Prometheus", "SLIs/SLOs"] 
 2025-08 - INFO - End of position 
 
-2025-08 - WARN - Career break: wrote a book2026-06 - WARN - End of career break: 
-2026-06 - WARN - End of career break
+2025-08 - WARN - Career break: wrote a book
+2026-06 - WARN - End of career break 
 
-2026-06 - INFO - Starting personal project: building a Bitcoin block explorer with my own indexer
+2026-06 - INFO - Personal project: building a Bitcoin block explorer with my own indexer
 2026-06 - INFO - Stack: ["Python (indexer, backend)", "Vue.JS", "PostgreSQL", "Redis"]
 ```
