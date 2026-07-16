@@ -28,5 +28,5 @@ $ tail -f position.log
 2026-06 - WARN - End of career break 
 
 2026-06 - INFO - Personal project: building a Bitcoin block explorer with my own indexer
-2026-06 - INFO - Stack: ["Python (indexer, backend)", "Vue.JS", "PostgreSQL", "Redis"]
+2026-06 - INFO - Stack: ["Python", "Go", "Vue.JS", "PostgreSQL", "Redis"]
 ```
