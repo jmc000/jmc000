@@ -1,4 +1,4 @@
-### Software Engineer, Infrastructure — DevOps, SRE, Platform Eng
+### Software Engineer, SRE
 
 ```log
 $ tail -f position.log
